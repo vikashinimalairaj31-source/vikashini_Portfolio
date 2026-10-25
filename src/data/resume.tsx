@@ -196,7 +196,7 @@ export const DATA = {
         },
 
       ],
-      image: "/project/landing.png",
+      image: "/Project/landing.png",
       video: "",
     },
     {
