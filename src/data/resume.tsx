@@ -73,7 +73,7 @@ export const DATA = {
       href: "https://Corpswell.com/",
       badges: [],
       location: "Chennai, TamilNadu",
-      title: "UI/UX and Graphic Designer(Intership) ",
+      title: "UI/UX and Graphic Designer(Internship) ",
       logoUrl: "/CWLogo.jpg",
       start: "JUN 2026",
       end: "Present",
@@ -200,7 +200,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/project/Landing.png",
+      image: "/project/landing.png",
       video: "",
     },
     {
