@@ -251,7 +251,7 @@ export const DATA = {
     {
       title: "E-Commerce Website",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "2026",
       active: true,
       description:
         "Designed and developed a responsive e-commerce website using HTML, CSS, and JavaScript. Created an intuitive user interface with product listings, product details, category filtering, search functionality, shopping cart management, and interactive buttons. Focused on providing a smooth shopping experience with a clean layout, responsive design, and user-friendly navigation across desktop, tablet, and mobile devices.",
