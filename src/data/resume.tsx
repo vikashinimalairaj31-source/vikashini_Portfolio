@@ -75,7 +75,7 @@ export const DATA = {
       title: "UI/UX and Graphic Designer(Internship) ",
       logoUrl: "/CWLogo.jpg",
       start: "APRIL 2026",
-      end: "Present",
+      end: "OCTOBER 2026",
       description: "UI/UX Designer & Graphic Design Intern — Corpswell | 6 Months",
 
       description1: "",
